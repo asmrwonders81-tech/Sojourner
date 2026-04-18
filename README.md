@@ -369,7 +369,7 @@ header{
   border-bottom:3px solid var(--accent);
 }
 
-header img{height:60px;}
+header img{height:240px;}
 
 header h1{
   font-family:Merriweather;
