@@ -34,7 +34,7 @@ header{
   border-bottom:3px solid var(--accent);
 }
 
-header img{height:180px;}
+header img{height:360px;}
 
 header h1{
   font-family:Merriweather;
@@ -212,7 +212,7 @@ Robin's daily struggle is a story of resilience, hardships, sacrifices and unspo
 
 <div class="tag">Opinion Writing</div>
 <h2>Resilience shall never be the key</h2>
-<div class="meta">Sojourner Editorial</div>
+<div class="meta">Jannes Magayon</div>
 
 <img class="article-img" src="OPINION WRITING.jpeg" alt="Flood Protest Image">
 
