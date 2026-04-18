@@ -29,7 +29,7 @@ header{
   display:flex;
   align-items:center;
   justify-content:center;
-  gap:15px;
+  gap:10px;
   padding:1.2rem 1rem;
   border-bottom:3px solid var(--accent);
 }
