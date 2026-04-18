@@ -179,7 +179,7 @@ footer{
 
 <div class="tag">Feature Article</div>
 <h2>Under the Blazing Sun: Robin's fight for Survival and Dreams</h2>
-<div class="meta">By Sojourner News</div>
+<div class="meta">By Princess Louise Gonzales</div>
 
 <img class="article-img" src="FEATURED WRITING.jpeg" alt="Robin Story Image">
 
